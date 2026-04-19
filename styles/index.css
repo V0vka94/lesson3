@@ -1,0 +1,16 @@
+
+.main-actions {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.main-actions .button {
+    height: 80px;
+    width: 433px;
+    font-size: 18px;
+    font-weight: bold;
+    place-items: center;
+    display: grid;
+}
